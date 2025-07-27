@@ -3,4 +3,5 @@ aiohttp
 aiofiles
 rapidfuzz
 python-dotenv
+Pillow
 PyNaCl 
